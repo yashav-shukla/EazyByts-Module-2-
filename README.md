@@ -48,7 +48,7 @@ Installation and Setup
 
 Clone the repository:
 
-git clone (https://github.com/yashav-shukla/Stock_Market_Dashboard-EazyBytes.git)
+git clone (https://github.com/yashav-shukla/EazyByts-Module-2-.git)
 
 Navigate to the project directory:
 
